@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+baseurl: /cs207-F18
+markdown: kramdown
+kramdown:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
